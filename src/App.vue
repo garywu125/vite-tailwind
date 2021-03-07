@@ -3,7 +3,7 @@
     class="min-h-screen bg-gray-100 py-6 flex flex-col justify-center sm:py-12"
   >
     <div>
-    <h1 class="text-3xl text-blue-400">Hello, Tailwind!</h1>
+    <h1 class="text-4xl text-semibold text-blue-400 ">Hello, Tailwind!</h1>
     <p class="my-3">Let's learn how to use this new CSS framework.</p>
     </div>
     <div class="relative px-4 py-10 bg-white shadow-lg sm:rounded-3xl sm:p-20">
