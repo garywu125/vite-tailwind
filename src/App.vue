@@ -12,7 +12,10 @@
         <HelloWorld msg="vite-04 : Vue 3 + tailwind.css + Vite   " />
         <p class="ml-2 text-pink-400">Testing vue3 + Tailwind.css</p>
       </div>
+      <div class="text-center space-y-2">    
+  </div>
     </div>
+    
   </div>
 </template>
 
